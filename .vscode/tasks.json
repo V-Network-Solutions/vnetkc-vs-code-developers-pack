@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Package",
+            "command": "npm run package",
+            "type": "shell"
+        },
+        {
+            "label": "Publish",
+            "command": "npm run package && npm run publish",
+            "type": "shell"
+        }
+    ]
+}
