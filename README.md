@@ -1,5 +1,10 @@
 # 🚀 V-Network Solutions Developers VS Code Extension Pack
 
+Version: v1.0.1
+Creator: V-Network Solutions
+License: MIT
+Website: [vnetwork.solutions](https://vnetwork.solutions)
+
 ## ℹ️ Description
 
 An extension pack for VS Code with either access to Azure tools or other required extensions for code management in open source projects.
