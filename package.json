@@ -1,0 +1,69 @@
+{
+    "name": "vnetkc-developers-vs-code-pack",
+    "displayName": "VNETKC Developers Pack",
+    "description": "An extension pack for VS Code with either access to Azure tools or other required extensions for code management in open source projects.",
+    "version": "1.0.1",
+    "publisher": "v-network-solutions",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/v-network-solutions/vnetkc-vs-code-developers-pack"
+    },
+    "icon": "static/vnetkc-developers-pack-icon.png",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Azure",
+        "Extension Packs",
+        "Formatters",
+        "Linters"
+    ],
+    "content": {
+        "details": {
+            "path": "README.md"
+        },
+        "license": {
+            "path": "LICENSE"
+        }
+    },
+    "keywords": [
+        "VNETKC",
+        "V-Network Solutions",
+        "Developers Pack",
+        "Dev Environment",
+        "Open Source",
+        "GitHub"
+    ],
+    "extensionPack": [
+        "aaron-bond.better-comments",
+        "esbenp.prettier-vscode",
+        "ms-vscode.azure-account",
+        "streetsidesoftware.code-spell-checker"
+    ],
+    "galleryBanner": {
+        "color": "#f0f5ef",
+        "theme": "light"
+    },
+    "links": {
+        "getstarted": {
+            "uri": "https://github.com/v-network-solutions/vnetkc-vs-code-developers-pack"
+        },
+        "support": {
+            "uri": "https://github.com/v-network-solutions/vnetkc-vs-code-developers-pack/issues/new/"
+        },
+        "license": {
+            "uri": "https://github.com/v-network-solutions/vnetkc-vs-code-developers-pack/blob/master/LICENSE"
+        }
+    },
+    "scripts": {
+        "clean": "rimraf ./**/*.vsix",
+        "login": "vsce login v-network-solutions",
+        "package": "vsce package",
+        "prepackage": "npm run clean",
+        "prepublish": "npm run package",
+        "publish": "vsce publish"
+    },
+    "devDependencies": {
+        "rimraf": "^3.0.2"
+    }
+}
