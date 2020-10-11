@@ -2,7 +2,7 @@
     "name": "vnetkc-developers-vs-code-pack",
     "displayName": "VNETKC Developers Pack",
     "description": "An extension pack for VS Code with either access to Azure tools or other required extensions for code management in open source projects.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "v-network-solutions",
     "repository": {
         "type": "git",
