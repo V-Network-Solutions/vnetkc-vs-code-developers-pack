@@ -36,6 +36,7 @@
     ],
     "extensionPack": [
         "aaron-bond.better-comments",
+        "DavidAnson.vscode-markdownlint",
         "esbenp.prettier-vscode",
         "ms-vscode.azure-account",
         "streetsidesoftware.code-spell-checker"
