@@ -2,6 +2,10 @@
 
 All notable changes to the "V-Network Solutions Developers VS Code Extension Pack" will be documented in this file.
 
+## [Released v1.0.4]
+
+- Fixed spacing issue in README.MD
+
 ## [Released v1.0.3]
 
 - Added [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) to list of extensions in package

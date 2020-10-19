@@ -1,9 +1,9 @@
 # 🚀 V-Network Solutions Developers VS Code Extension Pack
 
-Version: v1.0.3
-Creator: V-Network Solutions
-License: MIT
-Website: [vnetwork.solutions](https://vnetwork.solutions)
+Version: v1.0.4  
+Creator: V-Network Solutions  
+License: MIT  
+Website: [vnetwork.solutions](https://vnetwork.solutions)  
 
 ## ℹ️ Description
 
