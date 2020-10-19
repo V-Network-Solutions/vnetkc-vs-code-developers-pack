@@ -1,6 +1,6 @@
 # 🚀 V-Network Solutions Developers VS Code Extension Pack
 
-Version: v1.0.2
+Version: v1.0.3
 Creator: V-Network Solutions
 License: MIT
 Website: [vnetwork.solutions](https://vnetwork.solutions)
@@ -14,5 +14,6 @@ An extension pack for VS Code with either access to Azure tools or other require
 - [Azure Account](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account)  
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)  
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+- [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)  
